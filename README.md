@@ -7,9 +7,3 @@ Easy Input: User-friendly interface for entering course grades and credit hours.
 Accurate Calculation: Calculates CGPA accurately based on the entered information.
 Flexible: Handles various grading systems and credit hour scales.
 Portable: Written in C++, making it platform-independent.
-How to Use
-Clone the Repository:
-git clone https://github.com/MenITrust/cgpa-calculator.git
-cd cgpa-calculator
-Run the application
-./cgpa_calculator
